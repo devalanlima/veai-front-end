@@ -22,7 +22,7 @@
     --destructive: 0 78.17% 55.1%;
     --destructive-foreground: 0 0% 93.33%;
     --ring: 14.72 65.99% 51.57%;
-    --radius: 0.5rem;
+    --radius: 0.7rem;
   }
 
   .dark {
@@ -45,7 +45,7 @@
     --destructive: 0 78.17% 55.1%;
     --destructive-foreground: 0 0% 93.33%;
     --ring: 14.72 65.99% 51.57%;
-    --radius: 0.5rem;
+    --radius: 0.7rem;
   }
 }
 @layer base {
