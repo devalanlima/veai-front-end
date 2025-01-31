@@ -25,7 +25,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      <body className={`${poppins.variable} ${inter.variable}`}>
+      <body className={`${poppins.variable} ${inter.variable} font-inter`}>
         {children}
       </body>
     </html>
